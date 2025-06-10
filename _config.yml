@@ -1,6 +1,9 @@
 title: Jordi Solis
 logo: Profile Picture.png
-description:  
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description: Hello 
+  <br><br>
+  Second description  Second Hello
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
