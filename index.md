@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Customer Analysis- Full Presentation](pdf/Final Project Presentation Github.pdf)
+- [Customer Analysis- Full Presentation](Final Project Presentation Github.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
