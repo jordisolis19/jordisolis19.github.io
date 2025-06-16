@@ -23,7 +23,7 @@
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [SQL- Music Store Queries](https://github.com/jordisolis19/SQLTree/blob/7a1457145c0549f8eca3fc5e0b2827630770e717/Music%20Store%20Database-%20Final%20Project-)
 
 ---
 
