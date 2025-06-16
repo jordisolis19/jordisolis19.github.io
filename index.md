@@ -2,7 +2,7 @@
 
 ---
 
-### Power BI- Zomato Customer analysis
+### Power BI- Zomato Customer Analysis
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
