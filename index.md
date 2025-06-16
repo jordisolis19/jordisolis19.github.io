@@ -4,8 +4,8 @@
 
 ### Power BI- Zomato Customer Analysis
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Location](/sample_page)
+<img src="images/Final_Project_Dashbaord_page-0001.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
